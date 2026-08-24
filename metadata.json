@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Penjurian Lomba Hadroh",
+  "description": "Sistem penilaian real-time lomba hadroh dengan rekapitulasi otomatis, enkripsi end-to-end, analitik performa, mode offline, ekspor PDF/Excel/Google Sheets, dan autentikasi 2FA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
